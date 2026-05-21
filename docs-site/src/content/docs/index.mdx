@@ -1,20 +1,20 @@
 ---
-title: 
+title: Falcon MCP Server
 pagefind: false
 template: splash
 hero:
-  title: Mission IT / Claroty CTD Workshop
-  tagline: Learn how to deploy and operate Claroty CTD 5.x on Government networks.
+  title: Falcon MCP Server
+  tagline: Connect AI assistants to the CrowdStrike Falcon platform via the Model Context Protocol
   image:
     file: ../../assets/pinchy-spider.jpg
     alt: CrowdStrike
   actions:
     - text: Get Started
-      link: /getting-started/installation/
+      link: /falcon-mcp/getting-started/installation/
       variant: primary
       icon: right-arrow
     - text: View on GitHub
-      link: https://github.com/MissionIT/claroty-workshop
+      link: https://github.com/CrowdStrike/falcon-mcp
       variant: secondary
       icon: github
       attrs:
@@ -25,13 +25,13 @@ hero:
 import { CardGrid, Card } from '@astrojs/starlight/components';
 
 <CardGrid>
-  <Card title="Tailored for Government Deployments" icon="rocket">
-    Incorporation of DISA STIGs, eMASS ATOs, USACE/NAVFAC/AFCEC UFGS-25 08 11, FIPS, and other Government-specific deployment considerations.
-  </Card> 
-  <Card title="Full Spectrum Operations" icon="puzzle">
-    Starting with installation planning, through continuous monitoring, threat hunting, and advanced usage. Use the chapters most valuable to your learning and needs.
+  <Card title="AI-Powered Security Ops" icon="rocket">
+    Let AI agents investigate threats, triage detections, and analyze incidents across your Falcon environment.
   </Card>
-  <Card title="Written By Practitioners, For Practitioners" icon="laptop">
-    A living, frequently updated, coursebook that incorporates lessons from actual practitioners deploying Claroty into OT, SCADA, and related control system networks.
+  <Card title="Full Spectrum Coverage" icon="puzzle">
+    Detections, hosts, vulnerabilities, intel, IOCs, and more through a single MCP interface.
+  </Card>
+  <Card title="Deploy Anywhere" icon="laptop">
+    Run as a CLI tool, Docker container, or deploy to AWS Bedrock and Google Cloud.
   </Card>
 </CardGrid>
