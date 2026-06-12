@@ -30,7 +30,7 @@ export default defineConfig({
             { label: 'Workshop Environment', slug: 'getting-started/workshop-environment' },
           ],
         },
-        {
+/*        {
           label: 'Deployment Planning',
           items: [
             { label: 'Deployment Topologies', slug: 'usage/cli' },
@@ -40,6 +40,21 @@ export default defineConfig({
             { label: 'Applying Threat Bundle Updates', slug: 'usage/cli' },
             { label: 'Cyber Baseline Scan', slug: 'usage/transports' },
             { label: 'Post-Install Checklist', slug: 'usage/editor-integration' },
+          ],
+        }, */
+        {
+          label: 'Assessment Planning',
+          items: [
+            { label: 'Overview', slug: 'ctd-edge-assessment/overview' },
+            { label: 'Assessment Preparation', slug: 'ctd-edge-assessment/cli' },
+            { label: 'Environment Connection', slug: 'ctd-edge-assessment/environment-connection' },
+            { label: 'Passive Data Collection', slug: 'ctd-edge-assessment/passive-data-collection' },
+            { label: 'Active Discovery', slug: 'ctd-edge-assessment/active-discovery' },
+            { label: 'Asset Enrichment', slug: 'ctd-edge-assessment/asset-enrichment' },
+            { label: 'Edge Deployment', slug: 'ctd-edge-assessment/edge-deployment' },
+            { label: 'Data Validation & Reporting', slug: 'ctd-edge-assessment/cli' },
+            { label: 'EMC Integration', slug: 'ctd-edge-assessment/cli' },
+            { label: 'Active Scan Examples', slug: 'ctd-edge-assessment/cli' },
           ],
         },
 //        {
