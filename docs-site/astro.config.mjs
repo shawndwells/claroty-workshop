@@ -57,6 +57,12 @@ export default defineConfig({
             { label: 'Active Scan Examples', slug: 'ctd-edge-assessment/cli' },
           ],
         },
+        {
+          label: 'Labs',
+          items: [
+            { label: 'Lab 1: Navigation and Familiarzation', slug: 'labs/lab-1' },
+          ],
+        },
 //        {
 //          label: 'Modules',
 //          autogenerate: { directory: 'modules' },

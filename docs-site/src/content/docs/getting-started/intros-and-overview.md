@@ -17,7 +17,7 @@ About Mission IT
 
 | Instructor | Bio | Contact |
 |------------|-----|---------|
-| <center>Cassidy Alcorn <br/><br/> ![Cassidy Alcorn Headshot](../../../assets/Mission_IT_-_Cassidy_Alcorn_-_cassidy@missionit.com.svg)</center> | bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio  | [cassidy@missionit.com](mailto:cassidy@missionit.com) <br/><br/>123-123-1234|
+| <center>Cassidy Alcorn <br/><br/> ![Cassidy Alcorn Headshot](../../../assets/Mission_IT_-_Cassidy_Alcorn_-_cassidy@missionit.com.svg)</center> | Hello World (You just lost the Game)  | [cassidy@missionit.com](mailto:cassidy@missionit.com) <br/><br/>123-123-1234|
 | <center>Ryan Thorn <br/><br/> ![Ryan Thorn Headshot](../../../assets/ryan-thorn.svg)</center>  | bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio  | [ryan@missionit.com](mailto:ryan@missionit.com) <br/><br/>123-123-1234 |
 | <center>Shawn Wells <br/><br/> ![Shawn Wells Headshot](../../../assets/Mission_IT_-_Shawn_Wells_-_shawn@missionit.com.svg)</center> | bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio bio  | [shawn@missionit.com](mailto:shawn@missionit.com) <br/><br/>443-534-0130 |
 
