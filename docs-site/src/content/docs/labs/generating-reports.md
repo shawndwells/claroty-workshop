@@ -11,7 +11,7 @@ description: ""
 ---
 ## TASKS
 ### Part One: Exploring Existing Reports
-1. Navigate to Reports > Reports Library.
+1. Navigate to `Reports` > `Reports Library`.
 2. Review the reports that are already present within the system.
 3. Examine several predefined reports and note:
    - The report name
@@ -20,7 +20,7 @@ description: ""
 4. Open the report details and review any available configuration options.
 ---
 ### Part Two: Creating a Custom Widget
-1. Navigate to Visibility > Assets.
+1. Navigate to `Visibility` > `Assets`.
 2. Open the kebab menu (⋮) and select Select Columns.
 3. Review the available columns and note the variety of asset information available for reporting.
 4. Open the kebab menu again and select Create Widget.
@@ -31,7 +31,7 @@ description: ""
 6. Save the widget.
 ---
 ### Part Three: Creating a Report
-1. Navigate to Reports > Reports Editor.
+1. Navigate to `Reports` > `Reports Editor`.
 2. Select Add Widget.
 3. Add the custom widget created previously.
 4. Add at least two predefined widgets.
@@ -46,7 +46,7 @@ description: ""
 8. Create the report.
 ---
 ### Part Four: Exploring Report Scheduling
-1. Navigate to Reports > Reports Library.
+1. Navigate to `Reports` > `Reports Library`.
 2. Locate the report you created.
 3. Open the report details.
 4. Review:
@@ -58,7 +58,7 @@ description: ""
 > Reports can only be emailed to users that exist within CTD. SMTP must be configured for email delivery to function.
 ---
 ### PART Five: Creating a Custom Table Report
-1. Navigate to Risks & Vulnerabilities > Insights.
+1. Navigate to `Risks & Vulnerabilities` > `Insights`.
 2. Open the kebab menu (⋮).
 3. Select Create New Table Report.
 4. Review the configuration options available.

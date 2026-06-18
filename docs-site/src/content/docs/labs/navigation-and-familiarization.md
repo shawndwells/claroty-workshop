@@ -2,6 +2,7 @@
 title: "Navigation and Familiarzation"
 description: ""
 ---
+# ** WIP **
 ## GOALS
  - Understand CTD architecture at a high level
  - Discover the locations of major functions

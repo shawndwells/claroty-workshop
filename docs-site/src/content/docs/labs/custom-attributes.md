@@ -7,7 +7,7 @@ description: ""
 - Apply custom attributes and variables to assets
 ---
 ## TASKS
-1. Go to Settings > Management > Custom Attributes
+1. Go to `Settings` > `Management` > `Custom Attributes`
  - This page will list any existing custom attributes for assets or sites.
 2. On the assets page, select the (+) icon to create a new Custom Attribute.
 3. Create three custom attributes:
