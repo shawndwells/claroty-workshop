@@ -29,12 +29,12 @@ description: ""
 7. Explore these pages and note what sort of information can be found.
 ---
 ### Part Two: Asset Inventory
-1. Return to the Assets** page.
+1. Return to the Assets page.
 2. Click on the kebab menu (⋮) at the top left of the listed assets and choose the Select Columns option.
 3. Within the window, all available column options will be shown. Add all unselected items, then click Apply.
 4. Select the kebab menu again and click Download.
    - You can customize the presented options to your liking.
-   - Choose either CSV or PDF.
+   - Choose either CSV (if you have access to a CSV reader) or PDF.
    - Select the appropriate timezone.
    - Select all Include options before downloading.
 5. Once the download has completed, open the file to view the output.
