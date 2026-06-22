@@ -78,13 +78,21 @@ export default defineConfig({
             { label: 'Custom Attributes', slug: 'visibility/custom-attributes' },
           ],
         },
-                {
+        {
           label: 'Risks & Vulnerabilities',
           items: [
             { label: 'Overview', slug: 'risks-and-vulnerabilities/overview' },
             { label: 'Insights', slug: 'risks-and-vulnerabilities/insights' },
             { label: 'Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
             { label: 'Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
+          ],
+        },
+        {
+          label: 'Threat Detection',
+          items: [
+            { label: 'Overview', slug: 'threat-detection/overview' },
+            { label: 'Alerts', slug: 'threat-detection/alerts' },
+            { label: 'Events', slug: 'threat-detection/events' },
           ],
         },
 //        {

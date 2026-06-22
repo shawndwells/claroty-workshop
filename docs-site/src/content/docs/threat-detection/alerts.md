@@ -1,6 +1,6 @@
 ---
 title: "Threat Detection: Alerts"
-description: ""
+description: "✅"
 ---
 ## GOALS
 - Understand the purpose of alerts
