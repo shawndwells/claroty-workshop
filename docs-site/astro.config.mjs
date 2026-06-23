@@ -30,20 +30,46 @@ export default defineConfig({
             { label: 'Workshop Environment', slug: 'getting-started/workshop-environment' },
           ],
         },
-/*        {
-          label: 'Deployment Planning',
-          items: [
-            { label: 'Deployment Topologies', slug: 'usage/cli' },
-            { label: 'Pre-Install Requirements', slug: 'usage/cli' },
-            { label: 'Installation Process', slug: 'usage/cli' },
-            { label: 'Applying CTD Updates', slug: 'usage/cli' },
-            { label: 'Applying Threat Bundle Updates', slug: 'usage/cli' },
-            { label: 'Cyber Baseline Scan', slug: 'usage/transports' },
-            { label: 'Post-Install Checklist', slug: 'usage/editor-integration' },
-          ],
-        }, */
         {
-          label: 'Assessment Planning',
+          label: 'CHAPTER 1: Visibility',
+          items: [
+            { label: '1.1 Overview', slug: 'visibility/overview' },
+            { label: '1.2 Assets', slug: 'visibility/assets' },
+            { label: '1.3 Zones', slug: 'visibility/zones' },
+            { label: '1.4 Asset Retention', slug: 'visibility/asset-retention' },
+            { label: '1.5 Custom Attributes', slug: 'visibility/custom-attributes' },
+          ],
+        },
+        {
+          label: 'CHAPTER 2: Risks & Vulnerabilities',
+          items: [
+            { label: 'Overview', slug: 'risks-and-vulnerabilities/overview' },
+            { label: 'Insights', slug: 'risks-and-vulnerabilities/insights' },
+            { label: 'Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
+            { label: 'Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
+          ],
+        },
+        {
+          label: 'CHAPTER 3: Threat Detection',
+          items: [
+            { label: 'Overview', slug: 'threat-detection/overview' },
+            { label: 'Alerts', slug: 'threat-detection/alerts' },
+            { label: 'Events', slug: 'threat-detection/events' },
+          ],
+        },
+                {
+          label: 'CHAPTER 4: Investigation',
+          items: [
+          ],
+        },
+                {
+          label: 'CHAPTER 5: Reports',
+          items: [
+            { label: 'Reports', slug: 'reports/reports' },
+          ],
+        },
+        {
+          label: 'CHAPTER 6: Assessment Planning',
           items: [
             { label: 'Overview', slug: 'ctd-edge-assessment/overview' },
             { label: 'Assessment Preparation', slug: 'ctd-edge-assessment/cli' },
@@ -57,83 +83,15 @@ export default defineConfig({
             { label: 'Active Scan Examples', slug: 'ctd-edge-assessment/cli' },
           ],
         },
-        {
+//        { label: 'Changelog', slug: 'changelog' },
+/*        {
           label: 'Labs',
           items: [
             { label: 'Asset Discovery and Inventory Creation', slug: 'labs/asset-discovery-and-inventory-creation' },
             { label: 'PCAP Collection and Analysis', slug: 'labs/pcap-collection-and-analysis' },
             { label: 'Active Discovery and Queries', slug: 'labs/active-discovery-and-queries' },
           ],
-        },
-        {
-          label: 'Visibility',
-          items: [
-            { label: 'Overview', slug: 'visibility/overview' },
-            { label: 'Zones', slug: 'visibility/zones' },
-            { label: 'Assets', slug: 'visibility/assets' },
-            { label: 'Asset Retention', slug: 'visibility/asset-retention' },
-            { label: 'Custom Attributes', slug: 'visibility/custom-attributes' },
-          ],
-        },
-        {
-          label: 'Risks & Vulnerabilities',
-          items: [
-            { label: 'Overview', slug: 'risks-and-vulnerabilities/overview' },
-            { label: 'Insights', slug: 'risks-and-vulnerabilities/insights' },
-            { label: 'Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
-            { label: 'Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
-          ],
-        },
-        {
-          label: 'Threat Detection',
-          items: [
-            { label: 'Overview', slug: 'threat-detection/overview' },
-            { label: 'Alerts', slug: 'threat-detection/alerts' },
-            { label: 'Events', slug: 'threat-detection/events' },
-          ],
-        },
-                {
-          label: 'Investigation',
-          items: [
-          ],
-        },
-                {
-          label: 'Reports',
-          items: [
-            { label: 'Reports', slug: 'reports/reports' },
-          ],
-        },
-//        {
-//          label: 'Modules',
-//          autogenerate: { directory: 'modules' },
-//        },
-//        {
-//          label: 'Deployment',
-//          items: [
-//            { label: 'Docker', slug: 'deployment/docker' },
-//            { label: 'Amazon Bedrock', slug: 'deployment/amazon-bedrock' },
-//            { label: 'Google Cloud', slug: 'deployment/google-cloud' },
-//          ],
-//        },
-//        {
-//          label: 'Development',
-//          items: [
-//            { label: 'Contributing', slug: 'development/contributing' },
-//            { label: 'Module Development', slug: 'development/module-development' },
-//            { label: 'Resource Development', slug: 'development/resource-development' },
-//            { label: 'Integration Testing', slug: 'development/integration-testing' },
-//            { label: 'E2E Testing', slug: 'development/e2e-testing' },
-//            { label: 'Docs Site Guide', slug: 'development/docs-site' },
-//          ],
-//        },
-//        {
-//          label: 'Examples',
-//          items: [
-//            { label: 'Basic Usage', slug: 'examples/basic-usage' },
-//            { label: 'MCP Config', slug: 'examples/mcp-config' },
-//          ],
-//        },
-//        { label: 'Changelog', slug: 'changelog' },
+        }, */
       ],
     }),
   ],

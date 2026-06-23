@@ -2,7 +2,7 @@
 title: "Visibility: Zones"
 description: "✅"
 ---
-## GOALS
+## SCENARIO / CONTEXT
 - Determine how many zones are in the environment
 - Determine the attributes of existing zones (population, criticality, etc.)
 - Determine which zones are in communication with other zones
