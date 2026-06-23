@@ -26,7 +26,7 @@ export default defineConfig({
           label: 'Getting Started',
           items: [
             { label: 'Intros and Overview', slug: 'getting-started/intros-and-overview' },
-            { label: 'Outcome Review', slug: 'getting-started/outcome-review' },
+            //{ label: 'Outcome Review', slug: 'getting-started/outcome-review' },
             { label: 'Workshop Environment', slug: 'getting-started/workshop-environment' },
           ],
         },
