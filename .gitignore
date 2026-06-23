@@ -219,3 +219,6 @@ docs-site/.astro/
 
 # Playwright MCP screenshots
 .playwright-mcp/
+
+# pnpm
+docs-site/pnpm-workspace.yaml
