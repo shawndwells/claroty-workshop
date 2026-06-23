@@ -26,7 +26,6 @@ export default defineConfig({
           label: 'Getting Started',
           items: [
             { label: 'Intros and Overview', slug: 'getting-started/intros-and-overview' },
-            //{ label: 'Outcome Review', slug: 'getting-started/outcome-review' },
             { label: 'Workshop Environment', slug: 'getting-started/workshop-environment' },
           ],
         },
@@ -57,41 +56,17 @@ export default defineConfig({
             { label: 'Events', slug: 'threat-detection/events' },
           ],
         },
-                {
+        {
           label: 'CHAPTER 4: Investigation',
           items: [
           ],
         },
-                {
+        {
           label: 'CHAPTER 5: Reports',
           items: [
             { label: 'Reports', slug: 'reports/reports' },
           ],
         },
-/*        {
-          label: 'CHAPTER 6: Assessment Planning',
-          items: [
-            { label: 'Overview', slug: 'ctd-edge-assessment/overview' },
-            { label: 'Assessment Preparation', slug: 'ctd-edge-assessment/cli' },
-            { label: 'Environment Connection', slug: 'ctd-edge-assessment/environment-connection' },
-            { label: 'Passive Data Collection', slug: 'ctd-edge-assessment/passive-data-collection' },
-            { label: 'Active Discovery', slug: 'ctd-edge-assessment/active-discovery' },
-            { label: 'Asset Enrichment', slug: 'ctd-edge-assessment/asset-enrichment' },
-            { label: 'Edge Deployment', slug: 'ctd-edge-assessment/edge-deployment' },
-            { label: 'Data Validation & Reporting', slug: 'ctd-edge-assessment/cli' },
-            { label: 'EMC Integration', slug: 'ctd-edge-assessment/cli' },
-            { label: 'Active Scan Examples', slug: 'ctd-edge-assessment/cli' },
-          ],
-        }, */
-//        { label: 'Changelog', slug: 'changelog' },
-/*        {
-          label: 'Labs',
-          items: [
-            { label: 'Asset Discovery and Inventory Creation', slug: 'labs/asset-discovery-and-inventory-creation' },
-            { label: 'PCAP Collection and Analysis', slug: 'labs/pcap-collection-and-analysis' },
-            { label: 'Active Discovery and Queries', slug: 'labs/active-discovery-and-queries' },
-          ],
-        }, */
       ],
     }),
   ],
