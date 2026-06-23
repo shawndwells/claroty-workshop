@@ -1,6 +1,6 @@
 # Security
 
-This document outlines the security policy and procedures for projects under the CrowdStrike organization.
+This document outlines the security policy and procedures for projects under the Mission IT organization.
 
 ## Supported Versions
 
@@ -8,11 +8,10 @@ For each project, we aim to release security vulnerability patches for the most 
 
 ## Reporting a Potential Security Vulnerability
 
-We encourage the reporting of security-related vulnerabilities. To report a suspected vulnerability in any CrowdStrike project, please use one of the following methods:
+We encourage the reporting of security-related vulnerabilities. To report a suspected vulnerability in any Mission IT project, please use one of the following methods:
 
 + Submitting an __issue__ to the relevant project repository.
 + Submitting a __pull request__ with a potential fix to the relevant project repository.
-+ Sending an email to __oss-security@crowdstrike.com__.
 
 ## Disclosure and Mitigation Process
 

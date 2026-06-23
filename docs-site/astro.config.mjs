@@ -43,10 +43,10 @@ export default defineConfig({
         {
           label: 'CHAPTER 2: Risks & Vulnerabilities',
           items: [
-            { label: 'Overview', slug: 'risks-and-vulnerabilities/overview' },
-            { label: 'Insights', slug: 'risks-and-vulnerabilities/insights' },
-            { label: 'Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
-            { label: 'Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
+            { label: '2.1 Overview', slug: 'risks-and-vulnerabilities/overview' },
+            { label: '2.2 Insights', slug: 'risks-and-vulnerabilities/insights' },
+            { label: '2.3 Vulnerabilities', slug: 'risks-and-vulnerabilities/vulnerabilities' },
+            { label: '2.4 Attack Vector', slug: 'risks-and-vulnerabilities/attack-vector' },
           ],
         },
         {
@@ -68,7 +68,7 @@ export default defineConfig({
             { label: 'Reports', slug: 'reports/reports' },
           ],
         },
-        {
+/*        {
           label: 'CHAPTER 6: Assessment Planning',
           items: [
             { label: 'Overview', slug: 'ctd-edge-assessment/overview' },
@@ -82,7 +82,7 @@ export default defineConfig({
             { label: 'EMC Integration', slug: 'ctd-edge-assessment/cli' },
             { label: 'Active Scan Examples', slug: 'ctd-edge-assessment/cli' },
           ],
-        },
+        }, */
 //        { label: 'Changelog', slug: 'changelog' },
 /*        {
           label: 'Labs',

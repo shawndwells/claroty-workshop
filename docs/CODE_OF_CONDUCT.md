@@ -1,4 +1,4 @@
-# CrowdStrike Community Code of Conduct
+# Mission IT Community Code of Conduct
 
 ## Our Pledge
 
@@ -65,8 +65,8 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the project maintainers at any time. Concerns can also be escalated
 directly to community leaders at:
 
-* [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
-* [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
+* [Shawn Wells - shawn@missionit.com](shawn@missionit.com)
+* [Erin Surrock - erin@missionit.com](erin@missionit.com)
 
 All complaints will be reviewed and investigated promptly and fairly.
 
@@ -137,7 +137,7 @@ For answers to common questions about this code of conduct, see the FAQ at
 Suggestions welcome on how to improve this code of conduct!
 
 * Have a suggestion or idea to discuss? Open a discussion
-at [https://github.com/CrowdStrike/community/discussions](https://github.com/CrowdStrike/community/discussions)!
+at [https://github.com/Mission IT/community/discussions](https://github.com/Mission IT/community/discussions)!
 
 * Want to submit a pull request with recommended changes? Submit a PR
-against [https://github.com/CrowdStrike/community/blob/main/docs/pages/code-of-conduct.md](https://github.com/CrowdStrike/community/blob/main/docs/pages/code-of-conduct.md).
+against [https://github.com/Mission IT/community/blob/main/docs/pages/code-of-conduct.md](https://github.com/Mission IT/community/blob/main/docs/pages/code-of-conduct.md).

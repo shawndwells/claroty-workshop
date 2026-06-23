@@ -1,10 +1,10 @@
 # Welcome
 
-Welcome and thank you for your interest in contributing to a CrowdStrike project! We recognize contributing to a project is no small feat! The guidance here aspires to help onboard new community members into how CrowdStrike-led projects tend to operate, and by extension, make the contribution process easier.
+Welcome and thank you for your interest in contributing to a Mission IT project! We recognize contributing to a project is no small feat! The guidance here aspires to help onboard new community members into how Mission IT-led projects tend to operate, and by extension, make the contribution process easier.
 
 ## How do I make a contribution?
 
-Never made an open source contribution before? Wondering how contributions work in CrowdStrike projects? Here is a quick rundown!
+Never made an open source contribution before? Wondering how contributions work in Mission IT projects? Here is a quick rundown!
 
 1. Find an issue that you are interested in addressing, or a feature you would like to add. These are often documented in the project repositories themselves, frequently in the `issues` section.
 
@@ -150,21 +150,21 @@ Frequenty rebasing is *strongly* encouraged. If your local copy falls to far beh
 
 General questions relating a project should be opened in that projects repository. Examples would be troubleshooting errors, submitting bug reports, or asking a general question/request for clarification.
 
-If your question is of the broader CrowdStrike community, please [open a community discussion](https://github.com/CrowdStrike/community/discussions/new).
+If your question is of the broader Mission IT community, please [open a community discussion](https://github.com/MissionIT/community/discussions/new).
 
 ### Submitting a New Project Idea
 
- If you do not see a project, repository, or would like the community to consider working on a specific piece of technology, please [open a community ticket](https://github.com/CrowdStrike/community/issues/new).
+ If you do not see a project, repository, or would like the community to consider working on a specific piece of technology, please [open a community ticket](https://github.com/MissionIT/community/issues/new).
 
 ## What does the Code of Conduct mean for me?
 
 Our community Code of Conduct helps us establish community norms and how they'll be enforced. Community members are expected to treat each other with respect and courtesy regardless of their identity.
 
-CrowdStrike open source project maintainers are responsible for enforcing the CrowdStrike Code of Conduct within the project, issues may be raised directly to the maintainer should the need arise.
+Mission IT open source project maintainers are responsible for enforcing the Mission IT Code of Conduct within the project, issues may be raised directly to the maintainer should the need arise.
 
 ### Escalation Path
 
 If you do not feel your concern has been addressed, if you are unable to communicate your concern with project maintainers, or if you feel the situation warrants, please escalate to:
 
-- [oss-conduct@crowdstrike.com](mailto:oss-conduct@crowdstrike.com)
-- [Ethics and Compliance Hotline](https://crowdstrike.ethicspoint.com/)
+- [Shawn Wells - shawn@missionit.com](mailto:shawn@missionit.com)
+- [Erin Surrock - erin@missionit.com](mailto:erin@missionit.com)
