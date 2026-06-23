@@ -31,7 +31,7 @@ We now want to gain an understanding of how Claroty presents suspicious activity
 |:-|:-|
 | **Network Signature Info** | Provides basic information about the alert, including its signature ID and name. |
 | **Alert Score** | Includes *Significant Indicators* and how Claroty calculated the score. |
-| **Root Cause Analysis** | Shows a series of related alerts, and an asset communication map. |
+| **Root Cause Analysis** | Shows a series of related alerts, also known as a <u>Story</u>, and an asset communication map. |
 | **Mitigation Steps** | Suggests potential mitigation steps, dependant on the type and criticality of the alert. |
 | **Alert** | Provides information about the asset(s) that triggered the alert. |
 | **Alert Timeline** | A comment box that can be used to note/record information about the timeline of the alert. |
@@ -47,20 +47,20 @@ We now want to gain an understanding of how Claroty presents suspicious activity
 ## TASK 2: Stories
 * Return to the `Threat Detection` > `Alerts` page.
 <br/></br>
+![Switching to Network Topology View](../../../assets/ClarotyCTD-Menu-ThreatDetection-GroupByStory.png)
 * Enable **Group by Story** in the top right of the page.
-    - **Stories** are collections of related alerts that Claroty has grouped together. They provide additional context by showing how multiple alerts may be related to a larger activity or incident. Examples include:
+    - **Stories** are *collections of related alerts* that Claroty has grouped together. They provide additional context by showing how multiple alerts may be related to a larger activity or incident. Examples include:
         - Multiple alerts generated during a network scan
         - Several suspicious communications involving the same asset
         - A sequence of events that may indicate an attack progression
+    - They are, often times, sequences of events.
 <br/></br>
-* Expand a story and note the alerts contained within it.
-    - What is the relation between them?
+* Filter **Alert Type** by *Known Threat Alert* and look for the story containing the alert we previously investigated: `Possible ETERNALBLUE ... Heap Spray`.
+<br/><br/>
+* With the story expanded, note the other alerts contained within it.
+    * What do you recgonize about the alerts grouped within this story?
+    * Did the alerts within the story happen within a close timeframe?
 
 ### TASK 2 REFLECTION
-* x
-* x
----
-## REFLECTION
-* What information is available within an alert?
-* How do Security Event Alerts differ from Process Integrity Alerts?
-* What additional context can be gained by navigating from an alert to an asset?
+* How do stories connect alerts, and how could referencing them be used to contextualize and identify potential malicious activity?
+* What appears to have caused these alerts to be grouped into the same story?
