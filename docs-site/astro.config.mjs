@@ -60,10 +60,8 @@ export default defineConfig({
         {
           label: 'Labs',
           items: [
-            { label: 'Navigation and Familiarzation', slug: 'labs/navigation-and-familiarization' },
             { label: 'Asset Discovery and Inventory Creation', slug: 'labs/asset-discovery-and-inventory-creation' },
             { label: 'PCAP Collection and Analysis', slug: 'labs/pcap-collection-and-analysis' },
-            { label: 'Generating Reports', slug: 'labs/generating-reports' },
             { label: 'Active Discovery and Queries', slug: 'labs/active-discovery-and-queries' },
           ],
         },
