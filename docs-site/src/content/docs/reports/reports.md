@@ -13,11 +13,26 @@ Blurb
 * Navigate to `Reports` > `Reports Library`.
 <br/><br/>
 * Predefined and custom reports are stored in the **Reports Library**, where they can be downloaded and edited.
-    - *Widget*, *Table*, and *Compliance* reports are listed in their respective tabs.
-<br/><br/>
-* Claroty creates **Predefined** reports, such as the widget reports *Risk Assessment* and *Visibility Overview*, a variety of table reports, and a variety of compliance reports.
-    - These reports cannot be deleted, but they can have their scheduling altered.
+    * *Widget*, *Table*, and *Compliance* reports are listed in their respective tabs.
+![Report type locations](../../../assets/ClarotyCTD-Menu-Reports-Types.png)
 
+* Claroty creates **Predefined** reports, such as the widget reports *Risk Assessment* and *Visibility Overview*, a variety of table reports, and a variety of compliance reports.
+<br/><br/>
+* Click on the *Predefined* report titled **CTD Risk Assessment Report**. 
+<br/><br/>
+* The report will load, and on the left-hand side you will the option to **Download** the report, in addition to a table of contents for the report. 
+<br/><br/>
+* Take a minute to look through the report.
+    * What information is included in the report?
+    * What do you feel like the report may be missing?
+    * Is there any information you would remove?
+<br/><br/>
+* Return to the **Reports Library** page and switch over to the **Table Reports** tab.
+    - What is different about these reports? Can you view them in the browser?
+<br/><br/>
+* Switch over to the **Compliance Reports** tab.
+    - How are these reports similar to the other report types, and how do they differ?
+    
 ---
 
 ## TASK 2: Creating Custom Table Reports
