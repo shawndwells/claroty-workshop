@@ -4,9 +4,10 @@ description: Class Introductions & Workshop Overview
 ---
 
 ## Workshop Description
-This content serves as a companion lab guide, supplementing Mission IT and Claroty's two-day hands-on Claroty CTD workshop.
+This content serves as a companion lab guide, _supplementing_ Mission IT and Claroty's two-day hands-on Claroty CTD workshop.
 
-This content is meant to expose attendees to operationalizing Claroty CTD on an air-gapped/disconnected Government network, and includes topics such as:
+This content is meant to expose attendees to operationalizing Claroty CTD on an air-gapped/disconnected Government network, running with FIPS 140 enabled and DoD STIGs applied, and includes topics such as:
+
 * Learning deployment models for Claroty CTD
 * How to perform asset inventory and discovery, using both passive and active techniques
 * Performing vulnerability analysis of devices on the network
@@ -14,15 +15,22 @@ This content is meant to expose attendees to operationalizing Claroty CTD on an 
 * Performing active threat hunting on the OT network
 
 ## Instructor Bios
-This workshop is typically delivered through Mission IT and Claroty technical instructors. 
+This workshop is typically delivered through Mission IT and Claroty technical instructors. The instructors are specifically chosen based on their background with deploying Claroty into production environments. 
 
 ### Mission IT
+Mission IT is a premier Claroty partner, serving U.S. Public Sector and U.S. Commercial customers. Public partnership milestones include:
+* [Claroty, Mission IT partner to strengthen cybersecurity at US missile defense and intelligence facilities](https://industrialcyber.co/news/claroty-mission-it-partner-to-strengthen-cybersecurity-at-us-missile-defense-and-intelligence-facilities/)
+* [Claroty Secures ATO for Missile Defense, Intelligence Control System](https://www.executivebiz.com/articles/claroty-ctd-mission-it-ato-defense-intelligence-security)
+* [Claroty and Mission IT Partner to Secure U.S. Critical Infrastructure, Accelerate Entrance into U.S. Intelligence Community](https://claroty.com/press-releases/claroty-and-mission-it-partner-to-secure-us-critical-infrastructure-accelerate-entrance-into-us-intelligence-community)
+
+Additionally, Mission IT is the author of the [U.S. Government Configuration Baseline for Claroty CTD](https://ncp.nist.gov/checklist/1331), which establishes the whole-of-government configuration baseline to configure Claroty to NIST 800-53, DoD STIG, and other Federal standards.
 
 | Instructor | Bio | Contact |
 |------------|-----|---------|
 | <center>Cassidy Alcorn <br/><br/> ![Cassidy Alcorn Headshot](../../../assets/Mission_IT_-_Cassidy_Alcorn_-_cassidy@missionit.com.svg)</center> | <p>Cassidy has deployed Claroty CTD to onsite military networks, ranging from missile interception/defense sites to facility-related control systems for the U.S. Intelligence Community.</p><p>Additionally, Cassidy is a co-author of the [U.S. Government Configuration Baseline for Claroty CTD](https://ncp.nist.gov/checklist/1331), published in the NIST National Checklist program.</p> | [cassidy@missionit.com](mailto:cassidy@missionit.com)|
 | <center>Ryan Thorn <br/><br/> ![Ryan Thorn Headshot](../../../assets/ryan-thorn.svg)</center>  | <p>Ryan brings 20 years of systems engineering experience, with a background in U.S. Intelligence and Defense systems.</p>  | [ryan@missionit.com](mailto:ryan@missionit.com) <br/><br/>703-728-3822 |
 | <center>Shawn Wells <br/><br/> ![Shawn Wells Headshot](../../../assets/Mission_IT_-_Shawn_Wells_-_shawn@missionit.com.svg)</center> | <p>Shawn has fielded production deployments of Claroty to sites such as missile defense, nuclear launch and detection facilities, U.S. Intelligence Community facility-related control systems, water/wastewater systems, fuel storage and processing, and other Defense-focused ICS and SCADA facilities.</p><p>Shawn's role in developing OT-specific cyber weapons during his time as an NSA civilian was recently declassified through the [Dawn of Cyberwarfare](https://www.youtube.com/watch?v=BIEOB2jIr_o) documentary.</p><p>Joined with Cassidy Alcorn, Shawn is a co-author of the U.S. Government Configuration Baseline for Claroty CTD.</p>   | [shawn@missionit.com](mailto:shawn@missionit.com) <br/><br/>443-534-0130 |
+| <center>Erin Surrock<br/><br/> ![Erin Surrock Headshot](../../../assets/Mission_IT_-_Erin_Surrock_-_erin@missionit.com.jpg)</center> | <p>Erin often serves as Mission IT's project manager for OT, ICS, and SCADA projects. Most recently, Erin served as the Site Lead during the DLA Susquehanna Cyber Inventory and Assessment project in CY2025.</p><p>Erin's professional background includes product engineering roles at Dragos and CrowdStrike.</p>   | [erin@missionit.com](mailto:shawn@missionit.com)|
 
 ### Claroty
 

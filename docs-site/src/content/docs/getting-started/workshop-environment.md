@@ -3,7 +3,11 @@ title: Workshop Environment
 description: Overview of the OT and IT Lab
 ---
 
-Your login username and password will be provided during class.
+Each workshop attendee is assigned a dedicated Claroty CTD instance for their own use. 
+
+This instance is attached to a live lab network, and typically has PCAPs running to cover a wide range of devices, assessments, and cyber events.
+
+**_Attendee username and passwords are provided during the class._**
 
 ### Classroom EMC Instance
 | EMC | EMC URL |
@@ -52,4 +56,4 @@ Your login username and password will be provided during class.
 | Student 37 | <a href="https://ctd.missionit.com:9037" target="_blank">https://ctd.missionit.com:9037</a> |
 | Student 38 | <a href="https://ctd.missionit.com:9038" target="_blank">https://ctd.missionit.com:9038</a> |
 | Student 39 | <a href="https://ctd.missionit.com:9039" target="_blank">https://ctd.missionit.com:9039</a> |
-| Student 39 | <a href="https://ctd.missionit.com:9040" target="_blank">https://ctd.missionit.com:9040</a> |
+| Student 40 | <a href="https://ctd.missionit.com:9040" target="_blank">https://ctd.missionit.com:9040</a> |
